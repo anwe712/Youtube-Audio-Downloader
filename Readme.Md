@@ -1,6 +1,6 @@
 # YouTube Audio Downloader
 
-![Project Logo](https://your-image-url.com)
+![Project Logo](https://github.com/anwe712/Youtube-Audio-Downloader/blob/master/Reference%20(4838%20%C3%97%202419px).png)
 
 **YouTube Audio Downloader** is a Python script that allows you to easily extract audio from YouTube videos and save them as MP3 files. Say goodbye to the hassle of downloading entire videos just for the audio—this script lets you focus on the music!
 
